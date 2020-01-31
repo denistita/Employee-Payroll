@@ -1,0 +1,20 @@
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\bin\Release\PayrollData.exe.config
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\bin\Release\PayrollData.exe
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\bin\Release\PayrollData.pdb
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.Form1.resources
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.Properties.Resources.resources
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.csproj.GenerateResource.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.csproj.CoreCompileInputs.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.exe
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.pdb
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData\PayrollData\obj\Release\PayrollData.csprojAssemblyReference.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.csprojAssemblyReference.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.Form1.resources
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.Properties.Resources.resources
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.csproj.GenerateResource.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.csproj.CoreCompileInputs.cache
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.exe
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\obj\Release\PayrollData.pdb
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\bin\Release\PayrollData.exe.config
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\bin\Release\PayrollData.exe
+C:\Users\dftita\Documents\Virtual Studio 2019\Projects\PayrollData - Version2\PayrollData\bin\Release\PayrollData.pdb

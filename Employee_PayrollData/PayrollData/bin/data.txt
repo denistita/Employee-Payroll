@@ -1,0 +1,6 @@
+﻿
+Denis, 271 Jan, 40, W2, 4000, 17233, Scripts
+John, 421 Feb, 32, 1099, 5000,  14533, Object Oriented
+Peter, 719 March, 35, W2, 4500, 82533, Object Oriented
+Candy, 452 April, 39, 1099, 6000, 87238, Object Oriented
+Karol, 716 May, 50, 1099, 6500, 21178, Scripts
